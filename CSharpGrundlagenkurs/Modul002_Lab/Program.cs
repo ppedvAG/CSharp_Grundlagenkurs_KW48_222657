@@ -38,7 +38,7 @@
 
 
             Console.WriteLine($"Meter/Sekunde: \t\t {Math.Round(meterProSekunde, 2)}");
-            Console.WriteLine($"Kilometer/Stunde: \t\t {Math.Round(kilometerProStunde, 2)}");
+            Console.WriteLine($"Kilometer/Stunde: \t {Math.Round(kilometerProStunde, 2)}");
             Console.WriteLine($"Meilen/Stunde: \t\t {Math.Round(meilenProStunde, 2)}");
 
 
