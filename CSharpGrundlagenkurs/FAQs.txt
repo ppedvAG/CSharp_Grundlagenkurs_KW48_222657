@@ -1,0 +1,2 @@
+Endlosschleifen: 
+while(true) -> UseCase? 
