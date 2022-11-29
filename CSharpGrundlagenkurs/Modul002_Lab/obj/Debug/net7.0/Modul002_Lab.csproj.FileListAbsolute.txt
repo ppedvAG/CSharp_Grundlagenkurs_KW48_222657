@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\bin\Debug\net7.0\Modul002_Lab.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\bin\Debug\net7.0\Modul002_Lab.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\bin\Debug\net7.0\Modul002_Lab.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\bin\Debug\net7.0\Modul002_Lab.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\bin\Debug\net7.0\Modul002_Lab.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\refint\Modul002_Lab.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\Modul002_Lab.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul002_Lab\obj\Debug\net7.0\ref\Modul002_Lab.dll
