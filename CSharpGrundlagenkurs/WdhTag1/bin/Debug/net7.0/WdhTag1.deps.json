@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WdhTag1/1.0.0": {
+        "runtime": {
+          "WdhTag1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WdhTag1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

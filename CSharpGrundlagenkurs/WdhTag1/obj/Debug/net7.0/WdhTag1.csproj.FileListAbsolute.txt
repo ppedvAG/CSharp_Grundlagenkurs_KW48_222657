@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\bin\Debug\net7.0\WdhTag1.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\bin\Debug\net7.0\WdhTag1.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\bin\Debug\net7.0\WdhTag1.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\bin\Debug\net7.0\WdhTag1.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\bin\Debug\net7.0\WdhTag1.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\refint\WdhTag1.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\WdhTag1.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag1\obj\Debug\net7.0\ref\WdhTag1.dll
