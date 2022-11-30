@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modul005a_NamespaceSample/1.0.0": {
+        "dependencies": {
+          "Modul005_HerstellerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Modul005a_NamespaceSample.dll": {}
+        }
+      },
+      "Modul005_HerstellerLibrary/1.0.0": {
+        "runtime": {
+          "Modul005_HerstellerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul005a_NamespaceSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modul005_HerstellerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

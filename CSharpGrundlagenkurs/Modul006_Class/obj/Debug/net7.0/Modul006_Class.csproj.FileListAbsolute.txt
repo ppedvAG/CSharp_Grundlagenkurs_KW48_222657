@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\bin\Debug\net7.0\Modul006_Class.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\bin\Debug\net7.0\Modul006_Class.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\bin\Debug\net7.0\Modul006_Class.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\bin\Debug\net7.0\Modul006_Class.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\bin\Debug\net7.0\Modul006_Class.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\refint\Modul006_Class.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\Modul006_Class.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul006_Class\obj\Debug\net7.0\ref\Modul006_Class.dll
