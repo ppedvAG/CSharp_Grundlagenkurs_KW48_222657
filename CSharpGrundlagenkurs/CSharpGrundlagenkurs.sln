@@ -3,42 +3,46 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul002_Variablen_Datentypen_Konventierung_Operatoren", "Modul002_Variablen_Datentypen_Konventierung_Operatoren\Modul002_Variablen_Datentypen_Konventierung_Operatoren.csproj", "{FE839F3B-6640-491B-8F3F-DC67BC6DF4DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul002_Variablen_Datentypen_Konventierung_Operatoren", "Modul002_Variablen_Datentypen_Konventierung_Operatoren\Modul002_Variablen_Datentypen_Konventierung_Operatoren.csproj", "{FE839F3B-6640-491B-8F3F-DC67BC6DF4DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul002_Lab", "Modul002_Lab\Modul002_Lab.csproj", "{4A5E93A7-6BEF-4AFA-AB7C-E6D77337D722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul002_Lab", "Modul002_Lab\Modul002_Lab.csproj", "{4A5E93A7-6BEF-4AFA-AB7C-E6D77337D722}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002", "Modul002", "{3969EA91-3134-453D-A241-1C1DADBFA0E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul003_Array_Bedingungen", "Modul003_Array_Bedingungen\Modul003_Array_Bedingungen.csproj", "{096C5F1F-AAF0-417D-84E9-A3BA47C3A22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul003_Array_Bedingungen", "Modul003_Array_Bedingungen\Modul003_Array_Bedingungen.csproj", "{096C5F1F-AAF0-417D-84E9-A3BA47C3A22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul003_Lab", "Modul003_Lab\Modul003_Lab.csproj", "{4808B6D7-0A29-4EC4-8F61-805A0279E354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul003_Lab", "Modul003_Lab\Modul003_Lab.csproj", "{4808B6D7-0A29-4EC4-8F61-805A0279E354}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul003", "Modul003", "{BD893D59-1066-41CF-926D-2B7CFB3511DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul004_Schleifen_Enums", "Modul004_Schleifen_Enums\Modul004_Schleifen_Enums.csproj", "{1D03FA04-2AFA-44E7-BDE1-374F8E346143}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul004_Schleifen_Enums", "Modul004_Schleifen_Enums\Modul004_Schleifen_Enums.csproj", "{1D03FA04-2AFA-44E7-BDE1-374F8E346143}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1133D67-8FC8-4386-802A-432755BCA9F3}"
 	ProjectSection(SolutionItems) = preProject
 		FAQs.txt = FAQs.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005_Funktionen", "Modul005_Funktionen\Modul005_Funktionen.csproj", "{945BDD44-FE47-438F-BE93-B449D878D506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul005_Funktionen", "Modul005_Funktionen\Modul005_Funktionen.csproj", "{945BDD44-FE47-438F-BE93-B449D878D506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WdhTag1", "WdhTag1\WdhTag1.csproj", "{F3CB1584-7C8F-48D9-B87C-842A7A86B7AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WdhTag1", "WdhTag1\WdhTag1.csproj", "{F3CB1584-7C8F-48D9-B87C-842A7A86B7AE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul004", "Modul004", "{E7F4EA84-7DAE-4049-B8DD-BBB937E76976}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul005", "Modul005", "{3B02A5EB-5361-4DC4-95B4-155BF18183DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005a_NamespaceSample", "Modul005a_NamespaceSample\Modul005a_NamespaceSample.csproj", "{F559D563-19C8-4D71-A848-BE328572FD15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul005a_NamespaceSample", "Modul005a_NamespaceSample\Modul005a_NamespaceSample.csproj", "{F559D563-19C8-4D71-A848-BE328572FD15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005_HerstellerLibrary", "Modul005_HerstellerLibrary\Modul005_HerstellerLibrary.csproj", "{4B0ED89C-9317-4070-8613-45A88D272541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul005_HerstellerLibrary", "Modul005_HerstellerLibrary\Modul005_HerstellerLibrary.csproj", "{4B0ED89C-9317-4070-8613-45A88D272541}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul006_Klassen", "Modul006_Klassen", "{6105F2A7-882A-4907-A52F-8AFBEF7A9EAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul006_Class", "Modul006_Class\Modul006_Class.csproj", "{AC791A6A-447A-4DA4-9BD1-ADEB61092134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul006_Class", "Modul006_Class\Modul006_Class.csproj", "{AC791A6A-447A-4DA4-9BD1-ADEB61092134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul006_Lab", "Modul006_Lab\Modul006_Lab.csproj", "{3AC84930-4B18-48E5-81F5-13C215B51196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul006_Lab", "Modul006_Lab\Modul006_Lab.csproj", "{3AC84930-4B18-48E5-81F5-13C215B51196}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul007_Vererbung", "Modul007_Vererbung", "{97E5FE5E-01AC-4A01-B92A-FD1F5045C104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_Vererbung", "Modul007_Vererbung\Modul007_Vererbung.csproj", "{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -90,6 +94,10 @@ Global
 		{3AC84930-4B18-48E5-81F5-13C215B51196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC84930-4B18-48E5-81F5-13C215B51196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC84930-4B18-48E5-81F5-13C215B51196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +113,7 @@ Global
 		{4B0ED89C-9317-4070-8613-45A88D272541} = {3B02A5EB-5361-4DC4-95B4-155BF18183DA}
 		{AC791A6A-447A-4DA4-9BD1-ADEB61092134} = {6105F2A7-882A-4907-A52F-8AFBEF7A9EAC}
 		{3AC84930-4B18-48E5-81F5-13C215B51196} = {6105F2A7-882A-4907-A52F-8AFBEF7A9EAC}
+		{5E7A0DDE-D9B6-4508-AEDF-B5BC8420B422} = {97E5FE5E-01AC-4A01-B92A-FD1F5045C104}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84DC8DDB-431E-4720-A7A5-73E3369C90F6}
