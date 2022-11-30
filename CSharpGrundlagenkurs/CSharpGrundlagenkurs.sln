@@ -30,6 +30,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul004", "Modul004", "{E7
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul005", "Modul005", "{3B02A5EB-5361-4DC4-95B4-155BF18183DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005a_NamespaceSample", "Modul005a_NamespaceSample\Modul005a_NamespaceSample.csproj", "{F559D563-19C8-4D71-A848-BE328572FD15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{F3CB1584-7C8F-48D9-B87C-842A7A86B7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3CB1584-7C8F-48D9-B87C-842A7A86B7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3CB1584-7C8F-48D9-B87C-842A7A86B7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F559D563-19C8-4D71-A848-BE328572FD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F559D563-19C8-4D71-A848-BE328572FD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F559D563-19C8-4D71-A848-BE328572FD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F559D563-19C8-4D71-A848-BE328572FD15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
