@@ -1,17 +1,31 @@
-﻿namespace Modul007_Vererbung
+﻿using System.Net.Http.Headers;
+
+namespace Modul007_Vererbung
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Mensch mensch = new Mensch("Otto", "Leuchtturm", "Mensch", "Lassagne", new DateTime(1962, 5, 5));
-
+           
             Lebewesen lebewesen = new("noch unbekannt", "noch unbekannt", DateTime.Now);
+            lebewesen.Kommunikation();
+            Console.WriteLine(lebewesen.ToString()); 
+
+            Mensch mensch = new Mensch("Otto", "Leuchtturm", "Mensch", "Lassagne", new DateTime(1962, 5, 5));
+            mensch.Kommunikation();
+            Console.WriteLine(mensch.ToString());
 
 
             Reptil reptil = new Reptil(-5, "unbekanntes Reptil", "Fleisch", DateTime.Now);
 
             Krokodil krokodil = new Krokodil(true, -5, "Krokodil", "Fleisch",  DateTime.Now);
+            krokodil.Kommunikation();
+            Console.WriteLine(krokodil.ToString());
+
+
+            Spider spider = new Spider(true, 0, "Spider", "Fliegen", new DateTime(2021, 3, 3));
+            spider.Kommunikation();
+            Console.WriteLine(spider.ToString());
         }
     }
 
@@ -76,6 +90,20 @@
             return new Lebewesen(name, "Lassagne", DateTime.Now);
         }
 
+
+        public virtual void Kommunikation()
+        {
+            Console.WriteLine("Lebewesen kommuniziert in unbekannter form");
+        }
+
+        public override string ToString()
+        {
+            return $"{Name} ist am liebsten {Lieblingsnahrung} und ist {AlterInJahren} alt";
+        }
+
+
+
+
         #endregion
     }
 
@@ -100,7 +128,16 @@
             Console.WriteLine($"Mensch spricht > {dialog}");
         }
 
-        
+        public override void Kommunikation()
+        {
+            //base.Kommunikation();
+            Console.WriteLine("Der Mensch spricht in Silben");
+        }
+
+        public override string ToString()
+        {
+            return $"{Name} aus {Wohnort} speist am liebsten {Lieblingsnahrung} in und ist {AlterInJahren} alt";
+        }
     }
 
 
@@ -112,6 +149,11 @@
             :base (name, lieblingsnahrung, geburtsdatum)
         {
             WinterschlafBeiTemperatur = winterschlafBeiTemperatur;
+        }
+
+        public override void Kommunikation()
+        {
+            Console.WriteLine("Kommunikation über Morse-Zeichen, mithilfe von Füssen");
         }
     }
 
@@ -138,6 +180,16 @@
              : base(winterschlafBeiTemperatur, name, lieblingsnahrung, geburtsdatum)
         {
             VerwendetEinNetz = verwendetEinNetz;
+        }
+
+        public override void Kommunikation()
+        {
+            Console.WriteLine("Verwenden eine geheime Technologie via WLAN -> SpiderNet");
+        }
+
+        public override string ToString()
+        {
+            return "Spinne bestellt Fliegen via SpiderNet";
         }
     }
 }
