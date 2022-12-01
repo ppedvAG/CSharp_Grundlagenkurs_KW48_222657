@@ -6,6 +6,10 @@
         {
             Mensch mensch = new Mensch("Otto", "Leuchtturm", "Mensch", "Lassagne", new DateTime(1962, 5, 5));
 
+            Lebewesen lebewesen = new("noch unbekannt", "noch unbekannt", DateTime.Now);
+
+
+            Reptil reptil = new Reptil(-5, "unbekanntes Reptil", "Fleisch", DateTime.Now);
 
             Krokodil krokodil = new Krokodil(true, -5, "Krokodil", "Fleisch",  DateTime.Now);
         }
@@ -16,7 +20,7 @@
     {
         #region Felder und Eigenschaften
         //FELDER (Membervariablen) sind die Variablen einzelner Objekte, welche die Zustände dieser Objekte definieren
-        private string name = "Hugo";
+        private string name = "unbekanntes Lebewesen";
         
         //EIGENSCHAFTEN (Properties) definieren mittels Getter/Setter den Lese-/Schreibzugriff für jeweils ein Feld.
         ///In den Eigenschaften können bestimmte Bedingungen für das Lesen und Schreiben der Felder gesetzt werden, sowie der Zugriff
