@@ -84,7 +84,7 @@
             }
         }
 
-        public string Info()
+        public virtual string Info()
         {
             if (this.MotorLäuft)
                 return $"{this.Name} kostet {this.Preis}€ und fährt momentan mit {this.AktGeschwindigkeit} von maximal {this.MaxGeschwindigkeit}km/h.";
@@ -105,6 +105,11 @@
             :base (name, maxG, preis)
         {
             Tiefgang = tiefgang;
+        }
+
+        public override string Info()
+        {
+            return $".......";
         }
     }
 

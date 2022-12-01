@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\bin\Debug\net7.0\Modul007_AbstractSample.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\bin\Debug\net7.0\Modul007_AbstractSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\bin\Debug\net7.0\Modul007_AbstractSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\bin\Debug\net7.0\Modul007_AbstractSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\bin\Debug\net7.0\Modul007_AbstractSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\refint\Modul007_AbstractSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\Modul007_AbstractSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul007_AbstractSample\obj\Debug\net7.0\ref\Modul007_AbstractSample.dll

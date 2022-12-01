@@ -12,6 +12,9 @@ namespace Modul007_Vererbung
             Console.WriteLine(lebewesen.ToString()); 
 
             Mensch mensch = new Mensch("Otto", "Leuchtturm", "Mensch", "Lassagne", new DateTime(1962, 5, 5));
+
+            mensch.Geburtsdatum = new DateTime(1899, 1, 1);
+
             mensch.Kommunikation();
             Console.WriteLine(mensch.ToString());
 
@@ -20,6 +23,7 @@ namespace Modul007_Vererbung
 
             Krokodil krokodil = new Krokodil(true, -5, "Krokodil", "Fleisch",  DateTime.Now);
             krokodil.Kommunikation();
+            krokodil.Geburtsdatum = new DateTime(1899, 1, 1);
             Console.WriteLine(krokodil.ToString());
 
 
@@ -56,7 +60,7 @@ namespace Modul007_Vererbung
         public string Lieblingsnahrung { get; set; }
 
         //Property, welche einen komplexen Datentypen abbildet
-        public DateTime Geburtsdatum { get; set; }
+        public virtual DateTime Geburtsdatum { get; set; }
         //Read-only Property mit Rückbezug auf andere Property
         public int AlterInJahren
         {
@@ -114,6 +118,19 @@ namespace Modul007_Vererbung
         
         public string Vorname { get; set; }
         public string Wohnort { get; set; }
+
+        public override DateTime Geburtsdatum 
+        { 
+            get => base.Geburtsdatum;
+            
+            set
+            {
+                if (Geburtsdatum > new DateTime(1900, 1, 1))
+                    base.Geburtsdatum = value;
+                else
+                    Console.WriteLine("Person wäre über 120 Jahre");
+            }
+        }
 
         public Mensch(string vorname, string wohnort, string name, string lieblingsnahrung, DateTime geburtsdatum)
             : base(name, lieblingsnahrung, geburtsdatum)
