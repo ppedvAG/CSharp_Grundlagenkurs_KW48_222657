@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\bin\Debug\net7.0\MathLibrary.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\bin\Debug\net7.0\MathLibrary.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\bin\Debug\net7.0\MathLibrary.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\refint\MathLibrary.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\MathLibrary.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\MathLibrary\obj\Debug\net7.0\ref\MathLibrary.dll

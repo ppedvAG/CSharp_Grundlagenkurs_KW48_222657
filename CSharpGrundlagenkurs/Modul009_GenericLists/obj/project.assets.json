@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Grundlagenkurs_KW48_222657\\CSharpGrundlagenkurs\\Modul009_GenericLists\\Modul009_GenericLists.csproj",
-      "projectName": "Modul009_GenericLists",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_Grundlagenkurs_KW48_222657\\CSharpGrundlagenkurs\\Modul009_GenericLists\\Modul009_GenericLists.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Grundlagenkurs_KW48_222657\\CSharpGrundlagenkurs\\Modul009_GenericLists\\Modul010_GenericLists.csproj",
+      "projectName": "Modul010_GenericLists",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Grundlagenkurs_KW48_222657\\CSharpGrundlagenkurs\\Modul009_GenericLists\\Modul010_GenericLists.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_Grundlagenkurs_KW48_222657\\CSharpGrundlagenkurs\\Modul009_GenericLists\\obj\\",
       "projectStyle": "PackageReference",

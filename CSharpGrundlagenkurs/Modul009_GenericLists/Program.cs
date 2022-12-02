@@ -41,7 +41,6 @@ namespace Modul009_GenericLists
             otherPersonList.AddRange(personenArray); //IEnumerable<Person> ist im Grunde ein Array mit einem MoveNext() Befehl -> Verkette-Liste eines Arrays
             #endregion
 
-
             #region Dictionary 
             Dictionary<int, Person> dictionary = new Dictionary<int, Person>();
 
@@ -64,7 +63,7 @@ namespace Modul009_GenericLists
                 //kvp.Value
                 Console.WriteLine(kvp.Key);
                 Console.WriteLine(kvp.Value.Name);
-                Console.WriteLine(kvp.Value.);
+                //Console.WriteLine(kvp.Value.);
             }
 
             dictionary.ContainsValue(person);
@@ -77,8 +76,6 @@ namespace Modul009_GenericLists
             //hashtable.Add(123, "abc");
             //hashtable.Add(person, person);
             #endregion
-
-
         }
     }
 
