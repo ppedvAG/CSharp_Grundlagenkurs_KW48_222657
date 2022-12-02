@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\bin\Debug\net7.0\Modul009_GenericLists.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\bin\Debug\net7.0\Modul009_GenericLists.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\bin\Debug\net7.0\Modul009_GenericLists.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\bin\Debug\net7.0\Modul009_GenericLists.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\bin\Debug\net7.0\Modul009_GenericLists.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\refint\Modul009_GenericLists.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\Modul009_GenericLists.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_GenericLists\obj\Debug\net7.0\ref\Modul009_GenericLists.dll

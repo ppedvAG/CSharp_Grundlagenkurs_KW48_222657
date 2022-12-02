@@ -111,7 +111,6 @@ namespace WdhTag3
                 else
                     mitarbeiterDieSofortGekündigtWerdenKönnen.Add(employee);
 
-
             }
 
             #endregion

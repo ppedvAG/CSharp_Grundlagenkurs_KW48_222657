@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\bin\Debug\net7.0\Modul009_StaticMethods.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\bin\Debug\net7.0\Modul009_StaticMethods.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\bin\Debug\net7.0\Modul009_StaticMethods.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\bin\Debug\net7.0\Modul009_StaticMethods.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\bin\Debug\net7.0\Modul009_StaticMethods.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\refint\Modul009_StaticMethods.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\Modul009_StaticMethods.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\Modul009_StaticMethods\obj\Debug\net7.0\ref\Modul009_StaticMethods.dll

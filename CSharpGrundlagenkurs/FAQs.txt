@@ -1,2 +1,16 @@
 Endlosschleifen: 
 while(true) -> UseCase? 
+
+Themen:
+
+- Generische Liste
+- LinqLambda
+- Delegates 
+- Exceptions
+- Wertetypen und Referenztypen (was ist der untschied)
+	- StructsVsClasses
+- Records (Was steckt hinter einem Record? Was kann ich damit anstellen)
+
+
+
+

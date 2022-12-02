@@ -60,9 +60,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul008_InterfaceSample", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solid_Interface_segregation_principle", "Solid_Interface_segregation_principle\Solid_Interface_segregation_principle.csproj", "{D631D1FF-9F56-4006-A646-151CF46732B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WdhTag3", "WdhTag3\WdhTag3.csproj", "{F81D6A78-D216-422D-8850-4F5C99D5BAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WdhTag3", "WdhTag3\WdhTag3.csproj", "{F81D6A78-D216-422D-8850-4F5C99D5BAE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul009_StaticMethods", "Modul009_StaticMethods\Modul009_StaticMethods.csproj", "{131DC2C5-448E-484C-9AFD-3EDFC5A2C3BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul009_GenerischeListen", "Modul009_GenerischeListen", "{97469CB9-1E80-4C39-9BF4-E73A64C4895D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul009_GenericLists", "Modul009_GenericLists\Modul009_GenericLists.csproj", "{29584A61-FB6E-4ED0-A441-9D3D8822FE13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_DictionaryUseCase", "Modul11Demo_DictionaryUseCase\Demo_DictionaryUseCase.csproj", "{F599146C-7C73-4CB5-941B-E469BF25F355}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -154,6 +162,18 @@ Global
 		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131DC2C5-448E-484C-9AFD-3EDFC5A2C3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131DC2C5-448E-484C-9AFD-3EDFC5A2C3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131DC2C5-448E-484C-9AFD-3EDFC5A2C3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131DC2C5-448E-484C-9AFD-3EDFC5A2C3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29584A61-FB6E-4ED0-A441-9D3D8822FE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29584A61-FB6E-4ED0-A441-9D3D8822FE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29584A61-FB6E-4ED0-A441-9D3D8822FE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29584A61-FB6E-4ED0-A441-9D3D8822FE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F599146C-7C73-4CB5-941B-E469BF25F355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F599146C-7C73-4CB5-941B-E469BF25F355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F599146C-7C73-4CB5-941B-E469BF25F355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F599146C-7C73-4CB5-941B-E469BF25F355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +196,8 @@ Global
 		{3700CB25-FC42-4779-8CAA-121F7288AFB0} = {97E5FE5E-01AC-4A01-B92A-FD1F5045C104}
 		{7816E8D6-558C-4050-9016-B4DBF36972FD} = {2620DF28-C398-4BA0-B179-71569E6C06DD}
 		{D631D1FF-9F56-4006-A646-151CF46732B5} = {2620DF28-C398-4BA0-B179-71569E6C06DD}
+		{29584A61-FB6E-4ED0-A441-9D3D8822FE13} = {97469CB9-1E80-4C39-9BF4-E73A64C4895D}
+		{F599146C-7C73-4CB5-941B-E469BF25F355} = {97469CB9-1E80-4C39-9BF4-E73A64C4895D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84DC8DDB-431E-4720-A7A5-73E3369C90F6}
