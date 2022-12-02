@@ -50,13 +50,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_Lab", "Modul007_La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_VirtualPropertiesSample", "Modul007_VirtualPropertiesSample\Modul007_VirtualPropertiesSample.csproj", "{FB3D1E9C-DE82-40B6-9FFA-3A80A4FF22F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_AbstractSample", "Modul007_AbstractSample\Modul007_AbstractSample.csproj", "{B4120EEE-C24F-4EB6-89AF-EB3B0DA2A22D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_AbstractSample", "Modul007_AbstractSample\Modul007_AbstractSample.csproj", "{B4120EEE-C24F-4EB6-89AF-EB3B0DA2A22D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_sealed_Sample", "Modul007_sealed_Sample\Modul007_sealed_Sample.csproj", "{3700CB25-FC42-4779-8CAA-121F7288AFB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_sealed_Sample", "Modul007_sealed_Sample\Modul007_sealed_Sample.csproj", "{3700CB25-FC42-4779-8CAA-121F7288AFB0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul008_Interfaces", "Modul008_Interfaces", "{2620DF28-C398-4BA0-B179-71569E6C06DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul008_InterfaceSample", "Modul008_InterfaceSample\Modul008_InterfaceSample.csproj", "{7816E8D6-558C-4050-9016-B4DBF36972FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul008_InterfaceSample", "Modul008_InterfaceSample\Modul008_InterfaceSample.csproj", "{7816E8D6-558C-4050-9016-B4DBF36972FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solid_Interface_segregation_principle", "Solid_Interface_segregation_principle\Solid_Interface_segregation_principle.csproj", "{D631D1FF-9F56-4006-A646-151CF46732B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WdhTag3", "WdhTag3\WdhTag3.csproj", "{F81D6A78-D216-422D-8850-4F5C99D5BAE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -136,6 +142,18 @@ Global
 		{7816E8D6-558C-4050-9016-B4DBF36972FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7816E8D6-558C-4050-9016-B4DBF36972FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7816E8D6-558C-4050-9016-B4DBF36972FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D631D1FF-9F56-4006-A646-151CF46732B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D631D1FF-9F56-4006-A646-151CF46732B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D631D1FF-9F56-4006-A646-151CF46732B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D631D1FF-9F56-4006-A646-151CF46732B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81D6A78-D216-422D-8850-4F5C99D5BAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81D6A78-D216-422D-8850-4F5C99D5BAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81D6A78-D216-422D-8850-4F5C99D5BAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81D6A78-D216-422D-8850-4F5C99D5BAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BBA939-2FE3-48F0-B599-9BB36F1F930A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -157,6 +175,7 @@ Global
 		{B4120EEE-C24F-4EB6-89AF-EB3B0DA2A22D} = {97E5FE5E-01AC-4A01-B92A-FD1F5045C104}
 		{3700CB25-FC42-4779-8CAA-121F7288AFB0} = {97E5FE5E-01AC-4A01-B92A-FD1F5045C104}
 		{7816E8D6-558C-4050-9016-B4DBF36972FD} = {2620DF28-C398-4BA0-B179-71569E6C06DD}
+		{D631D1FF-9F56-4006-A646-151CF46732B5} = {2620DF28-C398-4BA0-B179-71569E6C06DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84DC8DDB-431E-4720-A7A5-73E3369C90F6}

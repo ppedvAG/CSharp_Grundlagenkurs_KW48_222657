@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\bin\Debug\net7.0\WdhTag3.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\bin\Debug\net7.0\WdhTag3.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\bin\Debug\net7.0\WdhTag3.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\bin\Debug\net7.0\WdhTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\bin\Debug\net7.0\WdhTag3.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\refint\WdhTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\WdhTag3.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_KW48_222657\CSharpGrundlagenkurs\WdhTag3\obj\Debug\net7.0\ref\WdhTag3.dll
